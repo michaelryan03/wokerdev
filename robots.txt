@@ -1,0 +1,10 @@
+# Cho phép tất cả Search Engine Bots cào toàn bộ dữ liệu trên trang
+User-agent: *
+Allow: /
+
+# Chặn bot truy cập vào các thư mục lưu trữ mã nguồn hoặc file không cần thiết (nếu có)
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Khai báo đường dẫn Sitemaps chính xác cho Googlebot
+Sitemap: https://michaelryan.michaelryan03.workers.dev/sitemap.xml
