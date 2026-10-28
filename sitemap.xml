@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- Trang chủ cá nhân -->
+  <url>
+    <loc>https://michaelryan.michaelryan03.workers.dev/googlef21b73e69f7b87dd.html</loc>
+    <lastmod>2026-10-09</lastmod>
+  </url>
   <url>
     <loc>https://michaelryan.michaelryan03.workers.dev/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-15</lastmod>
   </url>
-
+  <url>
+    <loc>https://michaelryan.michaelryan03.workers.dev/xem-ket-qua-xo-so-ben-tre-de-theo-doi-cho-moi-nguoi.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelryan.michaelryan03.workers.dev/xem-ket-qua-xo-so-mien-nam-truc-tiep.html</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelryan.michaelryan03.workers.dev/xem-ket-qua-xo-so-mien-trung-thu-5-lien-tuc-va-nhung-thong-tin-can-biet.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
 </urlset>
